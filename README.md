@@ -1,11 +1,24 @@
-<h1 align="center">Hola 👋, me llamo José Luis Carballeira</h1>
+<h1 align="center">Hola 👋, soy José Luis </h1>
 <h3 align="center">Soy Frontend Developer</h3>
+
+```javascript
+const luiscarba = {
+  code: [Javascript, Typescript, HTML, CSS, Java],
+  tools: [React],
+  challenge: "Estoy realizando el challenge #100DaysOfCode challenge centrado en React y Typescript"
+}
+```
+Me puedes encontrar en: 
+
+- [Linkedin](https://linkedin.com/in/joseluiscarballeiradebenito)
 
 - 🌱 Estoy aprendiendo **reactjs**
 
 - 💬 Pregúntame sobre **html, css, javascript**
 
 - 📫 Cómo ponerse en contacto conmigo **carba95@gmail.com**
+
+[![Luiscarba's GitHub stats](https://github-readme-stats.vercel.app/api?username=luiscarba)](https://github.com/luiscarba)
 
 <h3 align="left">Conecta conmigo:</h3>
 <p align="left">
