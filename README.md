@@ -5,7 +5,7 @@
 const luiscarba = {
   code: [Javascript, Typescript, HTML, CSS, Java],
   tools: [React],
-  challenge: "Estoy realizando el challenge #100DaysOfCode challenge centrado en React y Typescript"
+  challenge: "Estoy realizando el challenge #100DaysOfCode centrado en React y Typescript"
 }
 ```
 Me puedes encontrar en: 
